@@ -2,7 +2,7 @@
 
 AI machine learning, Bernoulli NB implimentation. 
 
-Using the 'Large Movie Review Dataset', also known as "IMDB dataset" (https://ai.stanford.edu/~amaas/data/sentiment/. 
+Using the 'Large Movie Review Dataset', also known as "IMDB dataset" (https://ai.stanford.edu/~amaas/data/sentiment/). 
 
 ----
 
