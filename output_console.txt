@@ -1,0 +1,544 @@
+Running accuracyTable()..
+Round 1:
+Fetching train data: 100%|██████████| 2/2 [00:00<00:00,  7.07it/s]
+Fetching test data: 100%|██████████| 2/2 [00:03<00:00,  1.62s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:00<00:00, 921.13it/s]
+Creating binary vectors for train data: 100%|██████████| 2500/2500 [00:57<00:00, 43.38it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:32<00:00, 43.67it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 2:
+Fetching train data: 100%|██████████| 2/2 [00:00<00:00,  3.64it/s]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:00<00:00, 425.17it/s]
+Creating binary vectors for train data: 100%|██████████| 5000/5000 [01:49<00:00, 45.49it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [08:58<00:00, 46.43it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 3:
+Fetching train data: 100%|██████████| 2/2 [00:01<00:00,  1.95it/s]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:00<00:00, 170.25it/s]
+Creating binary vectors for train data: 100%|██████████| 7500/7500 [03:00<00:00, 41.49it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:43<00:00, 42.82it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 4:
+Fetching train data: 100%|██████████| 2/2 [00:01<00:00,  1.43it/s]
+Fetching test data: 100%|██████████| 2/2 [00:03<00:00,  1.51s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:00<00:00, 128.57it/s]
+Creating binary vectors for train data: 100%|██████████| 10000/10000 [03:52<00:00, 42.94it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:38<00:00, 43.18it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 5:
+Fetching train data: 100%|██████████| 2/2 [00:01<00:00,  1.46it/s]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.42s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:00<00:00, 187.42it/s]
+Creating binary vectors for train data: 100%|██████████| 12500/12500 [04:56<00:00, 42.19it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:46<00:00, 42.62it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 6:
+Fetching train data: 100%|██████████| 2/2 [00:01<00:00,  1.02it/s]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:01<00:00, 92.30it/s]
+Creating binary vectors for train data: 100%|██████████| 15000/15000 [05:57<00:00, 42.01it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:29<00:00, 43.90it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 7:
+Fetching train data: 100%|██████████| 2/2 [00:02<00:00,  1.31s/it]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.46s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:01<00:00, 81.95it/s]
+Creating binary vectors for train data: 100%|██████████| 17500/17500 [06:48<00:00, 42.83it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:34<00:00, 43.51it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 8:
+Fetching train data: 100%|██████████| 2/2 [00:03<00:00,  1.61s/it]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.43s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:00<00:00, 111.22it/s]
+Creating binary vectors for train data: 100%|██████████| 20000/20000 [07:55<00:00, 42.02it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:42<00:00, 42.90it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 9:
+Fetching train data: 100%|██████████| 2/2 [00:03<00:00,  1.61s/it]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.44s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:01<00:00, 64.32it/s]
+Creating binary vectors for train data: 100%|██████████| 22500/22500 [08:53<00:00, 42.20it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:42<00:00, 42.91it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Round 10:
+Fetching train data: 100%|██████████| 2/2 [00:03<00:00,  1.89s/it]
+Fetching test data: 100%|██████████| 2/2 [00:02<00:00,  1.49s/it]
+Creating the vocabulary: 100%|██████████| 100/100 [00:01<00:00, 56.90it/s]
+Creating binary vectors for train data: 100%|██████████| 25000/25000 [09:46<00:00, 42.66it/s]
+Creating binary vectors for test data: 100%|██████████| 25001/25001 [09:34<00:00, 43.52it/s]
+Initialization..
+Initialized
+Fitting..
+Fit
+Predicting..
+Predicted
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Running accuracy()..
+Completed accuracy()
+Running precision()..
+Completed precision()
+Running recall()..
+Completed recall()
+Running f1()..
+Completed f1()
+Completed accuracyTable()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Bernoulli Naive Bayes implementation stats ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Accuracy between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤════════════╕
+│   Percentage of training data │   Accuracy │
+╞═══════════════════════════════╪════════════╡
+│                            10 │   0.4828   │
+├───────────────────────────────┼────────────┤
+│                            20 │   0.4986   │
+├───────────────────────────────┼────────────┤
+│                            30 │   0.4988   │
+├───────────────────────────────┼────────────┤
+│                            40 │   0.4963   │
+├───────────────────────────────┼────────────┤
+│                            50 │   0.49256  │
+├───────────────────────────────┼────────────┤
+│                            60 │   0.3826   │
+├───────────────────────────────┼────────────┤
+│                            70 │   0.297657 │
+├───────────────────────────────┼────────────┤
+│                            80 │   0.23755  │
+├───────────────────────────────┼────────────┤
+│                            90 │   0.193378 │
+├───────────────────────────────┼────────────┤
+│                           100 │   0.15932  │
+╘═══════════════════════════════╧════════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Precision between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤═════════════╕
+│   Percentage of training data │   Precision │
+╞═══════════════════════════════╪═════════════╡
+│                            10 │   0.0781878 │
+├───────────────────────────────┼─────────────┤
+│                            20 │   0.15417   │
+├───────────────────────────────┼─────────────┤
+│                            30 │   0.22869   │
+├───────────────────────────────┼─────────────┤
+│                            40 │   0.312791  │
+├───────────────────────────────┼─────────────┤
+│                            50 │   0.389738  │
+├───────────────────────────────┼─────────────┤
+│                            60 │   0.353761  │
+├───────────────────────────────┼─────────────┤
+│                            70 │   0.31024   │
+├───────────────────────────────┼─────────────┤
+│                            80 │   0.264559  │
+├───────────────────────────────┼─────────────┤
+│                            90 │   0.221284  │
+├───────────────────────────────┼─────────────┤
+│                           100 │   0.17887   │
+╘═══════════════════════════════╧═════════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Recall between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤══════════╕
+│   Percentage of training data │   Recall │
+╞═══════════════════════════════╪══════════╡
+│                            10 │ 0.8712   │
+├───────────────────────────────┼──────────┤
+│                            20 │ 0.9088   │
+├───────────────────────────────┼──────────┤
+│                            30 │ 0.9      │
+├───────────────────────────────┼──────────┤
+│                            40 │ 0.8882   │
+├───────────────────────────────┼──────────┤
+│                            50 │ 0.87744  │
+├───────────────────────────────┼──────────┤
+│                            60 │ 0.656533 │
+├───────────────────────────────┼──────────┤
+│                            70 │ 0.478514 │
+├───────────────────────────────┼──────────┤
+│                            80 │ 0.3548   │
+├───────────────────────────────┼──────────┤
+│                            90 │ 0.260978 │
+├───────────────────────────────┼──────────┤
+│                           100 │ 0.18976  │
+╘═══════════════════════════════╧══════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+F1 between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤══════════╕
+│   Percentage of training data │       F1 │
+╞═══════════════════════════════╪══════════╡
+│                            10 │ 0.143497 │
+├───────────────────────────────┼──────────┤
+│                            20 │ 0.263619 │
+├───────────────────────────────┼──────────┤
+│                            30 │ 0.364707 │
+├───────────────────────────────┼──────────┤
+│                            40 │ 0.462652 │
+├───────────────────────────────┼──────────┤
+│                            50 │ 0.539737 │
+├───────────────────────────────┼──────────┤
+│                            60 │ 0.459779 │
+├───────────────────────────────┼──────────┤
+│                            70 │ 0.376427 │
+├───────────────────────────────┼──────────┤
+│                            80 │ 0.303105 │
+├───────────────────────────────┼──────────┤
+│                            90 │ 0.239498 │
+├───────────────────────────────┼──────────┤
+│                           100 │ 0.184154 │
+╘═══════════════════════════════╧══════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~ Bernoulli Naive Bayes scikit-learn stats ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Accuracy between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤════════════╕
+│   Percentage of training data │   Accuracy │
+╞═══════════════════════════════╪════════════╡
+│                            10 │   0.5172   │
+├───────────────────────────────┼────────────┤
+│                            20 │   0.5014   │
+├───────────────────────────────┼────────────┤
+│                            30 │   0.5012   │
+├───────────────────────────────┼────────────┤
+│                            40 │   0.5037   │
+├───────────────────────────────┼────────────┤
+│                            50 │   0.50744  │
+├───────────────────────────────┼────────────┤
+│                            60 │   0.6174   │
+├───────────────────────────────┼────────────┤
+│                            70 │   0.702343 │
+├───────────────────────────────┼────────────┤
+│                            80 │   0.76245  │
+├───────────────────────────────┼────────────┤
+│                            90 │   0.806622 │
+├───────────────────────────────┼────────────┤
+│                           100 │   0.84068  │
+╘═══════════════════════════════╧════════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Precision between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤═════════════╕
+│   Percentage of training data │   Precision │
+╞═══════════════════════════════╪═════════════╡
+│                            10 │   0.0145399 │
+├───────────────────────────────┼─────────────┤
+│                            20 │   0.0222136 │
+├───────────────────────────────┼─────────────┤
+│                            30 │   0.0366104 │
+├───────────────────────────────┼─────────────┤
+│                            40 │   0.0517449 │
+├───────────────────────────────┼─────────────┤
+│                            50 │   0.0700823 │
+├───────────────────────────────┼─────────────┤
+│                            60 │   0.232449  │
+├───────────────────────────────┼─────────────┤
+│                            70 │   0.39661   │
+├───────────────────────────────┼─────────────┤
+│                            80 │   0.556687  │
+├───────────────────────────────┼─────────────┤
+│                            90 │   0.7086    │
+├───────────────────────────────┼─────────────┤
+│                           100 │   0.862692  │
+╘═══════════════════════════════╧═════════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Recall between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤══════════╕
+│   Percentage of training data │   Recall │
+╞═══════════════════════════════╪══════════╡
+│                            10 │ 0.1288   │
+├───────────────────────────────┼──────────┤
+│                            20 │ 0.0912   │
+├───────────────────────────────┼──────────┤
+│                            30 │ 0.1      │
+├───────────────────────────────┼──────────┤
+│                            40 │ 0.1118   │
+├───────────────────────────────┼──────────┤
+│                            50 │ 0.12256  │
+├───────────────────────────────┼──────────┤
+│                            60 │ 0.343467 │
+├───────────────────────────────┼──────────┤
+│                            70 │ 0.521486 │
+├───────────────────────────────┼──────────┤
+│                            80 │ 0.6452   │
+├───────────────────────────────┼──────────┤
+│                            90 │ 0.739022 │
+├───────────────────────────────┼──────────┤
+│                           100 │ 0.81024  │
+╘═══════════════════════════════╧══════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+F1 between Training Data and Test Data: 
+Table: 
+Running print_accuracy_table()..
+╒═══════════════════════════════╤═══════════╕
+│   Percentage of training data │        F1 │
+╞═══════════════════════════════╪═══════════╡
+│                            10 │ 0.02613   │
+├───────────────────────────────┼───────────┤
+│                            20 │ 0.0357255 │
+├───────────────────────────────┼───────────┤
+│                            30 │ 0.0535982 │
+├───────────────────────────────┼───────────┤
+│                            40 │ 0.0707461 │
+├───────────────────────────────┼───────────┤
+│                            50 │ 0.0891735 │
+├───────────────────────────────┼───────────┤
+│                            60 │ 0.277258  │
+├───────────────────────────────┼───────────┤
+│                            70 │ 0.450555  │
+├───────────────────────────────┼───────────┤
+│                            80 │ 0.597684  │
+├───────────────────────────────┼───────────┤
+│                            90 │ 0.723491  │
+├───────────────────────────────┼───────────┤
+│                           100 │ 0.835644  │
+╘═══════════════════════════════╧═══════════╛
+Completed print_accuracy_table()
+Learning curve: 
+Running learningCurve()..
+Completed learningCurve()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Running generate_pdf()..
+Completed generate_pdf()
+Running delete_trash_files()..
+Completed delete_trash_files()
+
+Process finished with exit code 0
